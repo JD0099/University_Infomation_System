@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/model/ApplicationAgent.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/model/AppliEffectivenessAgent.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/model/ModifyInfoAgent.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/view/OpenCourseView.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/view/ScoreCheckView.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/controller/CourseInfoHandler.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/view/CourseModifyView.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/controller/ModifyInfoHandler.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/view/LoginView.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/controller/CourseEffectivenessHandler.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/view/StuListView.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/controller/AppliEffectivenessHandler.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/controller/StudentInfoHandler.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/view/ModifyInfoView.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/view/CourseView.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/model/CourseEffectivenessAgent.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/view/ProfessorView.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/view/AttendListView.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/view/StudentView.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/view/CreateCourseView.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/model/CourseInfoAgent.java</file>
+            <file>file:/C:/Users/Sungrae/Desktop/UnivInfoSystem_161211/src/view/GradeGrantView.java</file>
+        </group>
+    </open-files>
+</project-private>
